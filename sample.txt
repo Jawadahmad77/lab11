@@ -2,3 +2,9 @@ Jawad Ahmad
 23-st-007
 
 Software Technology
+SCM
+SDLC
+OPP
+DS
+Math
+IST
